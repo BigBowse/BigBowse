@@ -1,6 +1,6 @@
 👋 Hi, I'm @BigBowse aka Serhii from UA 🇺🇦
 
-👀 I'm interested in developing websites on JavaScript for best UI/UX experience
+👀 I'm interested in developing websites for best UI/UX experience
 
 🍳 Currently, my skillbox includes HTML, CSS, SASS/SCSS, JS but only sky is my limit
 
